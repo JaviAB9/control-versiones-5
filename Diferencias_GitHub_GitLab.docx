@@ -1,6 +1,10 @@
 Francisco Javier Moreno García
 
 Indice:
-Git
-Github
-Gitlab
+Git: Es un sistema para controlar versiones. Sirve para guardar cambios en el código y no romper todo cada vez que alguien toca algo.
+
+Github: Es una plataforma en internet para alojar proyectos con Git. Básicamente, un sitio para compartir código y colaborar sin volverte loco.
+
+Gitlab: Es una plataforma para alojar y gestionar proyectos con Git.
+Permite guardar código, trabajar en equipo, controlar versiones y automatizar tareas como pruebas y despliegues CI/CD.
+
